@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Souvik Kumar Paul
 
-**Full-Stack Software Developer | Node.js | React | PHP | Drupal | SQL**
+**Full-Stack Software Developer | Node.js | React | PHP | Drupal | SQL | MongoDB**
 
-I'm a passionate and results-driven software developer with 4+ years of experience in building scalable web applications and services. I specialize in JavaScript (Node.js, React), PHP, and SQL, with a strong foundation in both front-end and back-end technologies.
+I'm a passionate and results-driven software developer with 4+ years of experience in building scalable web applications and services. I specialize in JavaScript (Node.js, React), PHP, SQL, and MongoDB, with a strong foundation in both front-end and back-end technologies.
 
 - 🏢 **Current Role**: Software Developer at [Fairassets Technologies India Pvt Ltd (Faircent.com)](http://faircent.com)
 - 🌐 **Location**: Gurugram, Haryana, India
