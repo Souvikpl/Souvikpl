@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Souvik Kumar Paul
 
-**Full-Stack Software Developer | Node.js | React | PHP | Drupal | SQL | MongoDB**
+**Full-Stack Software Developer | Node.js | React | PHP | CodeIgniter | Drupal | SQL | MongoDB**
 
 I'm a passionate and results-driven software developer with 4+ years of experience in building scalable web applications and services. I specialize in JavaScript (Node.js, React), PHP, SQL, and MongoDB, with a strong foundation in both front-end and back-end technologies.
 
@@ -14,7 +14,7 @@ I'm a passionate and results-driven software developer with 4+ years of experien
 ## 💻 Tech Stack
 
 - **Languages**: JavaScript, TypeScript, PHP  
-- **Frameworks & Libraries**: Node.js, Express.js, React.js, Next.js, Laravel, Drupal  
+- **Frameworks & Libraries**: Node.js, Express.js, React.js, Next.js, CodeIgniter, Drupal  
 - **Styling**: Tailwind CSS, Material UI, Bootstrap  
 - **Databases**: MySQL, MongoDB  
 - **Tools**: Git, GitHub, Bitbucket, Docker, Jenkins, Postman, VS Code, AWS S3, Linux  
